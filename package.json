@@ -1,0 +1,16 @@
+{
+  "name": "playwright-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "[mediba] Satoshi Takeda <takeda@mediba.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5"
+  }
+}
